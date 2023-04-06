@@ -17,6 +17,7 @@ For this project I was given a task to create a Work Day Scheduler. For this I w
 
 ## Markdown
 
+![Untitled_ Apr 6, 2023 3_52 PM](https://user-images.githubusercontent.com/126821868/230512966-474ceacf-71f1-4e3d-8917-6afeb5e9e89a.gif)
 
 
 ## Code Examples
